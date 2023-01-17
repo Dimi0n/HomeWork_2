@@ -1,0 +1,15 @@
+C:\Users\Dimion\Desktop\GameDev\00001\bin\Debug\net6.0\00001.exe
+C:\Users\Dimion\Desktop\GameDev\00001\bin\Debug\net6.0\00001.deps.json
+C:\Users\Dimion\Desktop\GameDev\00001\bin\Debug\net6.0\00001.runtimeconfig.json
+C:\Users\Dimion\Desktop\GameDev\00001\bin\Debug\net6.0\00001.dll
+C:\Users\Dimion\Desktop\GameDev\00001\bin\Debug\net6.0\00001.pdb
+C:\Users\Dimion\Desktop\GameDev\00001\obj\Debug\net6.0\00001.csproj.AssemblyReference.cache
+C:\Users\Dimion\Desktop\GameDev\00001\obj\Debug\net6.0\00001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimion\Desktop\GameDev\00001\obj\Debug\net6.0\00001.AssemblyInfoInputs.cache
+C:\Users\Dimion\Desktop\GameDev\00001\obj\Debug\net6.0\00001.AssemblyInfo.cs
+C:\Users\Dimion\Desktop\GameDev\00001\obj\Debug\net6.0\00001.csproj.CoreCompileInputs.cache
+C:\Users\Dimion\Desktop\GameDev\00001\obj\Debug\net6.0\00001.dll
+C:\Users\Dimion\Desktop\GameDev\00001\obj\Debug\net6.0\refint\00001.dll
+C:\Users\Dimion\Desktop\GameDev\00001\obj\Debug\net6.0\00001.pdb
+C:\Users\Dimion\Desktop\GameDev\00001\obj\Debug\net6.0\00001.genruntimeconfig.cache
+C:\Users\Dimion\Desktop\GameDev\00001\obj\Debug\net6.0\ref\00001.dll
