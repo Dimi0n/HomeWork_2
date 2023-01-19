@@ -1,0 +1,15 @@
+C:\Users\Dimion\Desktop\Задачки для С#\00002\obj\Debug\net6.0\00002.csproj.AssemblyReference.cache
+C:\Users\Dimion\Desktop\Задачки для С#\00002\obj\Debug\net6.0\00002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimion\Desktop\Задачки для С#\00002\obj\Debug\net6.0\00002.AssemblyInfoInputs.cache
+C:\Users\Dimion\Desktop\Задачки для С#\00002\obj\Debug\net6.0\00002.AssemblyInfo.cs
+C:\Users\Dimion\Desktop\Задачки для С#\00002\obj\Debug\net6.0\00002.csproj.CoreCompileInputs.cache
+C:\Users\Dimion\Desktop\Задачки для С#\00002\bin\Debug\net6.0\00002.exe
+C:\Users\Dimion\Desktop\Задачки для С#\00002\bin\Debug\net6.0\00002.deps.json
+C:\Users\Dimion\Desktop\Задачки для С#\00002\bin\Debug\net6.0\00002.runtimeconfig.json
+C:\Users\Dimion\Desktop\Задачки для С#\00002\bin\Debug\net6.0\00002.dll
+C:\Users\Dimion\Desktop\Задачки для С#\00002\bin\Debug\net6.0\00002.pdb
+C:\Users\Dimion\Desktop\Задачки для С#\00002\obj\Debug\net6.0\00002.dll
+C:\Users\Dimion\Desktop\Задачки для С#\00002\obj\Debug\net6.0\refint\00002.dll
+C:\Users\Dimion\Desktop\Задачки для С#\00002\obj\Debug\net6.0\00002.pdb
+C:\Users\Dimion\Desktop\Задачки для С#\00002\obj\Debug\net6.0\00002.genruntimeconfig.cache
+C:\Users\Dimion\Desktop\Задачки для С#\00002\obj\Debug\net6.0\ref\00002.dll
