@@ -39,20 +39,21 @@ System.Console.WriteLine("Пошлина в EUR = " + result6);
 
 System.Console.WriteLine("Введите значение: НДС в % ");
 VAT = Convert.ToInt32(Console.ReadLine());
-double result7 = (result5 + duty);
-double result8 = result7*(VAT/100);
-System.Console.WriteLine("НДС в EUR = " + result8);
+double result7 = (result5 + result6);
+double result8 = (VAT/100);
+double result9 = result7*result8;
+System.Console.WriteLine("НДС в EUR = " + result9);
 
 DC = 341.95;
 Broker = 683.9;
 
-double result9 = (result3 + result6 + result8 + DC + VAT + TransportArmSV + Broker);
-double result10 = result9*EURRUB;
-double result11 = (result9/EXW);
+double result10 = (result3 + result6 + result9 + DC + VAT + TransportArmSV + Broker);
+double result11 = result10*EURRUB;
+double result12 = (result10/EXW);
 
-System.Console.WriteLine("Итого DDP Севастополь в ЕВРО: " + result9); 
-System.Console.WriteLine("Итого DDP Севастополь в Рублях: " + result10);
-System.Console.WriteLine("Коэфицент DDP " + result11);
+System.Console.WriteLine("Итого DDP Севастополь в ЕВРО: " + result10); 
+System.Console.WriteLine("Итого DDP Севастополь в Рублях: " + result11);
+System.Console.WriteLine("Коэфицент DDP " + result12);
 
 
 
