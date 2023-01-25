@@ -1,0 +1,15 @@
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\obj\Debug\net6.0\EvenOdd.csproj.AssemblyReference.cache
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\obj\Debug\net6.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\obj\Debug\net6.0\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\obj\Debug\net6.0\EvenOdd.AssemblyInfo.cs
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\obj\Debug\net6.0\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\bin\Debug\net6.0\EvenOdd.exe
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\bin\Debug\net6.0\EvenOdd.deps.json
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\bin\Debug\net6.0\EvenOdd.runtimeconfig.json
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\bin\Debug\net6.0\EvenOdd.dll
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\bin\Debug\net6.0\EvenOdd.pdb
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\obj\Debug\net6.0\EvenOdd.dll
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\obj\Debug\net6.0\refint\EvenOdd.dll
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\obj\Debug\net6.0\EvenOdd.pdb
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\obj\Debug\net6.0\EvenOdd.genruntimeconfig.cache
+C:\Users\Dimion\Desktop\SimpleCode\Черновики\DoWhile\EvenOdd\obj\Debug\net6.0\ref\EvenOdd.dll
