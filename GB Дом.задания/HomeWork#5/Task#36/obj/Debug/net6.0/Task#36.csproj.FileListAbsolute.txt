@@ -1,0 +1,15 @@
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\bin\Debug\net6.0\Task#36.exe
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\bin\Debug\net6.0\Task#36.deps.json
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\bin\Debug\net6.0\Task#36.runtimeconfig.json
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\bin\Debug\net6.0\Task#36.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\bin\Debug\net6.0\Task#36.pdb
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\obj\Debug\net6.0\Task#36.csproj.AssemblyReference.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\obj\Debug\net6.0\Task#36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\obj\Debug\net6.0\Task#36.AssemblyInfoInputs.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\obj\Debug\net6.0\Task#36.AssemblyInfo.cs
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\obj\Debug\net6.0\Task#36.csproj.CoreCompileInputs.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\obj\Debug\net6.0\Task#36.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\obj\Debug\net6.0\refint\Task#36.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\obj\Debug\net6.0\Task#36.pdb
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\obj\Debug\net6.0\Task#36.genruntimeconfig.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#5\Task#36\obj\Debug\net6.0\ref\Task#36.dll
